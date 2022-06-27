@@ -51,21 +51,22 @@ def jalan(z):
 #Dev:love_hacker
 ##### LOGO #####
 logo = """
-\033[1;94m                     https://www.facebook.com/D4P3U                       
-\033[1;94m                       https://www.facebook.com/D4P3U
-\033[1;94m                 https://www.facebook.com/D4P3U
-\033[1;94m          ...........  https://www.facebook.com/D4P3U             
-\033[1;94m          ********IT'Z D4P3U. NON OF YOUR FATHER         
-\033[1;94m           >>>>>>>Fahim Vaiyer Bou re Cudi           
-\033[1;94m          >>>>>>>> Saiful Sanir Mare cudi                     
-\033[1;94m           >>>>>>>>SAIFUL SANIR MARE CUDI          
-\033[1;94m            ]####K      ___aaa___      J####F                      
-\033[1;94m        __gmM######_  w#P""   ""9#m  _d#####Mmw__                  
-\033[1;94m     _g##############mZ_         __g##############m_               
-\033[1;94m   _d####M@PPPP@@M#######Mmp gm#########@@PPP9@M####m_             
-\033[1;94m  a###""          ,Z"#####@" '######"\g          ""M##m            
-\033[1;94m J#@"             0L  "*##     ##@"  J#              *#K           
-\033[1;94m #"               `#    "_gmwgm_~    dF               `#_          
+\033[1;94m  ***************************                       
+\033[1;94m                      
+\033[1;94m                 
+\033[1;94m              
+\033[1;94m   
+\033[1;94m                     
+\033[1;94m                              
+\033[1;94m                    
+\033[1;94m                                  
+\033[1;94m                          
+\033[1;94m   
+\033[1;94m                
+\033[1;94m  
+            
+\033[1;94m            
+\033[1;94m          
 \033[1;94m7F                 "#_   ]#####F   _dK                 JE          
 \033[1;94m]                    *m__ ##### __g@"                   F          
 \033[1;94m                       "PJ#####LP"                                 
@@ -118,7 +119,7 @@ print  """
 \033[1;94m      "*w_________am#####P"   ~9#####mw_________w*"                  
 \033[1;94m          ""9@#####@M""           ""P@#####@M""                    
 
-❥•❥•❥•❥•❥•❥•❥•❥•NIGERIAN BLACK ANONYMOUS HACKERS•❥•❥•❥•❥•❥•❥•
+❥•❥•❥•❥•❥•❥•❥•❥•ANINYMOUS BROTHERS SQUAD•❥•❥•❥•❥•❥•❥•
 \033[1;97m❥•❥•❥•❥•❥•❥•❥•❥•\033[1;93mDammy Prince\033[1;97m❥•❥•❥•❥•❥•❥•❥•❥•
 \033[1;97mAuthor\033[1;97m    :❥•❥•❥•❥• \033[1;97mYOUSUF(LOFARSHAHZADI)
 \033[1;97mDammy Prince\033[1;97m:❥•❥•❥•❥• \033[1;97▒▓██████████████]99.9
